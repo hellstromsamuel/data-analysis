@@ -1,2 +1,2 @@
-# data-analysis-boston
-Data analysis of customers data in Google Firebase. Downloading, analyzing, statistics and automatically writing the results to Google Sheet. 
+# Data analysis - Summer Internship at Tyme Wear, Boston (USA)
+Data analysis of customers data in Google Firebase. Downloading, analyzing, statistics and automatically writing the results to Google Sheet. Started developing a solution with Python and a tool connecting to Google Sheets API. The company needed the data to be auto-synced in realtime, so then I developed the solution in Google Apps Script with a trigger that is running the script frequently.
